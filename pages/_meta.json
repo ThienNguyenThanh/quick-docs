@@ -1,0 +1,15 @@
+{
+    "index": "My Homepage",
+    "fruits": "Delicious Fruits",
+    "contact": "Contact Us",
+    "about": "About Us",
+    "framework": {
+        "title": "Framework",
+        "type": "page"
+    },
+    "github_link": {
+        "title": "Nextra",
+        "href": "https://github.com/shuding/nextra",
+        "newWindow": true
+  }
+  }
